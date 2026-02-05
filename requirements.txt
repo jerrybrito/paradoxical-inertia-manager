@@ -1,0 +1,2 @@
+# Requires: forgotten-stasis
+# (Not available on PyPI)
